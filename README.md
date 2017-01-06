@@ -1,2 +1,3 @@
 # MicroZedPowerBoard
- MicroZed Power Board
+
+Breakout Board for MicroZed developement board.
